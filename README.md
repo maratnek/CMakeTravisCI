@@ -1,0 +1,2 @@
+# CMakeTravisCI
+CI
